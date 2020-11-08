@@ -1,0 +1,7 @@
+C:\Users\Unknown Eugene\source\repos\CyberSammyy\ITEA-Homework\ITEA_HW_1\bin\Debug\ITEA_HW_1.exe.config
+C:\Users\Unknown Eugene\source\repos\CyberSammyy\ITEA-Homework\ITEA_HW_1\bin\Debug\ITEA_HW_1.exe
+C:\Users\Unknown Eugene\source\repos\CyberSammyy\ITEA-Homework\ITEA_HW_1\bin\Debug\ITEA_HW_1.pdb
+C:\Users\Unknown Eugene\source\repos\CyberSammyy\ITEA-Homework\ITEA_HW_1\obj\Debug\ITEA_HW_1.csprojAssemblyReference.cache
+C:\Users\Unknown Eugene\source\repos\CyberSammyy\ITEA-Homework\ITEA_HW_1\obj\Debug\ITEA_HW_1.csproj.CoreCompileInputs.cache
+C:\Users\Unknown Eugene\source\repos\CyberSammyy\ITEA-Homework\ITEA_HW_1\obj\Debug\ITEA_HW_1.exe
+C:\Users\Unknown Eugene\source\repos\CyberSammyy\ITEA-Homework\ITEA_HW_1\obj\Debug\ITEA_HW_1.pdb
